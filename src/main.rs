@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    println!("Number for FizzBuzz: ");
+    print!("Number for FizzBuzz: ");
 
     let mut input = String::new();
 
